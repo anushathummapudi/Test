@@ -22,5 +22,6 @@ public class GeneratingStatement {
 		System.out.println("success");
 		System.out.println("hello");
 		System.out.println("hai");
+		System.out.println("displayinfo");
 	}
 }
