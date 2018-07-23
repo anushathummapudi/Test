@@ -1,0 +1,5 @@
+TRA0013234567890987654ApprovedTransaction is processing
+TRA0026345678909876541DeclinedCredit Limit Crossed     
+TRA0033456789098765412ApprovedTransaction is processing
+TRA0044567890987654123ApprovedTransaction is processing
+TRA0055678909876544321DeclinedCredit Limit Crossed     
