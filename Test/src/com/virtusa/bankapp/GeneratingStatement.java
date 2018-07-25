@@ -24,5 +24,6 @@ public class GeneratingStatement {
 		System.out.println("hai");
 		System.out.println("displayinfo");
 		System.out.println("modified");
+		System.out.println("piggy");
 	}
 }
